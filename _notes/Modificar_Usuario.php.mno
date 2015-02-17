@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Actualizar" value="name:id;datatype:int,name:estado_id;datatype:int,name:nombre;datatype:string,name:apellidos;datatype:string,name:telefono;datatype:string,name:email;datatype:string" />
+	<infoitem key="UD_clientes" value="name:id;datatype:int,name:estado_id;datatype:int,name:nombre;datatype:string,name:apellidos;datatype:string,name:telefono;datatype:string,name:email;datatype:string" />
+</info>
